@@ -210,6 +210,11 @@ tempCodeRunnerFile.py
 
 # PyPI configuration file
 .pypirc
+data/
+.env
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
 
 # Marimo
 marimo/_static/
